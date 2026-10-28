@@ -25,7 +25,7 @@ I enjoy building software, exploring intelligent systems, and solving real-world
 
 <p>
 <a href="https://github.com/rajdeepgogoi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/gogoirajdeep"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center"><i>Build. Learn. Improve. Repeat.</i></p>
